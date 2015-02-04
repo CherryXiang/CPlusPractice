@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLink", "CLink\CLink.vcproj", "{0A29951F-A9DC-4FD8-9DB2-0E85577B8989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A29951F-A9DC-4FD8-9DB2-0E85577B8989}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A29951F-A9DC-4FD8-9DB2-0E85577B8989}.Debug|Win32.Build.0 = Debug|Win32
+		{0A29951F-A9DC-4FD8-9DB2-0E85577B8989}.Release|Win32.ActiveCfg = Release|Win32
+		{0A29951F-A9DC-4FD8-9DB2-0E85577B8989}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
